@@ -1,0 +1,797 @@
+14:02:02 - [spoiler] weapon type 0
+14:02:02 - [spoiler]   weapon # 0
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = agi boost
+14:02:02 - [spoiler]   stat cond = poison
+14:02:02 - [spoiler]   weapon 0 [True] name = Cestus; iters = 1
+14:02:02 - [spoiler]   atk 12
+14:02:02 - [spoiler] weapon type 1
+14:02:02 - [spoiler]   weapon # 0
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = agi boost
+14:02:02 - [spoiler]   stat cond = confuse
+14:02:02 - [spoiler]   weapon 0 [True] name = Edge of Duality; iters = 1
+14:02:02 - [spoiler]   atk 11
+14:02:02 - [spoiler] weapon type 2
+14:02:02 - [spoiler]   weapon # 0
+14:02:02 - [spoiler]   enemy effect = beast
+14:02:02 - [spoiler]   stat effect = str boost
+14:02:02 - [spoiler]   stat cond = freeze
+14:02:02 - [spoiler]   weapon 0 [True] name = Atom Smasher; iters = 1
+14:02:02 - [spoiler]   atk 11
+14:02:02 - [spoiler] weapon type 3
+14:02:02 - [spoiler]   weapon # 0
+14:02:02 - [spoiler]   enemy effect = dragon
+14:02:02 - [spoiler]   stat effect = int/wis boost
+14:02:02 - [spoiler]   stat cond = freeze
+14:02:02 - [spoiler]   weapon 0 [True] name = Zodiac Spear; iters = 1
+14:02:02 - [spoiler]   atk 11
+14:02:02 - [spoiler] weapon type 4
+14:02:02 - [spoiler]   weapon # 0
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = con boost
+14:02:02 - [spoiler]   stat cond = stone
+14:02:02 - [spoiler]   weapon 0 [True] name = Whip; iters = 1
+14:02:02 - [spoiler]   atk 9
+14:02:02 - [spoiler] weapon type 5
+14:02:02 - [spoiler]   weapon # 0
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = int/wis boost
+14:02:02 - [spoiler]   stat cond = engulf
+14:02:02 - [spoiler]   weapon 0 [True] name = Starfall; iters = 1
+14:02:02 - [spoiler]   atk 9
+14:02:02 - [spoiler] weapon type 6
+14:02:02 - [spoiler]   weapon # 0
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = agi boost
+14:02:02 - [spoiler]   stat cond = engulf
+14:02:02 - [spoiler]   weapon 0 [True] name = Frizbar; iters = 1
+14:02:02 - [spoiler]   atk 9
+14:02:02 - [spoiler] weapon type 7
+14:02:02 - [spoiler]   weapon # 0
+14:02:02 - [spoiler]   enemy effect = hit
+14:02:02 - [spoiler]   stat effect = con boost
+14:02:02 - [spoiler]   stat cond = engulf
+14:02:02 - [spoiler]   weapon 0 [True] name = Lode Javelin; iters = 1
+14:02:02 - [spoiler]   atk 9
+14:02:02 - [spoiler] weapon type 0
+14:02:02 - [spoiler]   weapon # 1
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = str boost
+14:02:02 - [spoiler]   stat cond = confuse
+14:02:02 - [spoiler]   weapon 1 [True] name = Titan's Mitt; iters = 1
+14:02:02 - [spoiler]   atk 22
+14:02:02 - [spoiler] weapon type 1
+14:02:02 - [spoiler]   weapon # 1
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = agi boost
+14:02:02 - [spoiler]   stat cond = poison
+14:02:02 - [spoiler]   weapon 1 [True] name = Tsurugi; iters = 1
+14:02:02 - [spoiler]   atk 20
+14:02:02 - [spoiler] weapon type 2
+14:02:02 - [spoiler]   weapon # 1
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = agi boost
+14:02:02 - [spoiler]   stat cond = engulf
+14:02:02 - [spoiler]   weapon 1 [True] name = Shadowmourne; iters = 1
+14:02:02 - [spoiler]   atk 20
+14:02:02 - [spoiler] weapon type 3
+14:02:02 - [spoiler]   weapon # 1
+14:02:02 - [spoiler]   enemy effect = 100crit
+14:02:02 - [spoiler]   stat effect = agi boost
+14:02:02 - [spoiler]   stat cond = slow
+14:02:02 - [spoiler]   weapon 1 [True] name = Dragonslayer; iters = 1
+14:02:02 - [spoiler]   atk 20
+14:02:02 - [spoiler] weapon type 4
+14:02:02 - [spoiler]   weapon # 1
+14:02:02 - [spoiler]   enemy effect = hit
+14:02:02 - [spoiler]   stat effect = con boost
+14:02:02 - [spoiler]   stat cond = engulf
+14:02:02 - [spoiler]   weapon 1 [True] name = Witch's Locks; iters = 1
+14:02:02 - [spoiler]   atk 17
+14:02:02 - [spoiler] weapon type 5
+14:02:02 - [spoiler]   weapon # 1
+14:02:02 - [spoiler]   enemy effect = holy
+14:02:02 - [spoiler]   stat effect = int/wis boost
+14:02:02 - [spoiler]   weapon 1 [False] name = Auriel's Bow; iters = 1
+14:02:02 - [spoiler]   atk 21
+14:02:02 - [spoiler] weapon type 6
+14:02:02 - [spoiler]   weapon # 1
+14:02:02 - [spoiler]   enemy effect = holy
+14:02:02 - [spoiler]   stat effect = int/wis boost
+14:02:02 - [spoiler]   weapon 1 [False] name = Crescent; iters = 1
+14:02:02 - [spoiler]   atk 21
+14:02:02 - [spoiler] weapon type 7
+14:02:02 - [spoiler]   weapon # 1
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = str boost
+14:02:02 - [spoiler]   stat cond = slow
+14:02:02 - [spoiler]   weapon 1 [True] name = Valkyrie; iters = 1
+14:02:02 - [spoiler]   atk 17
+14:02:02 - [spoiler] weapon type 0
+14:02:02 - [spoiler]   weapon # 2
+14:02:02 - [spoiler]   enemy effect = hit
+14:02:02 - [spoiler]   stat effect = con boost
+14:02:02 - [spoiler]   stat cond = freeze
+14:02:02 - [spoiler]   weapon 2 [True] name = Tilian Claw; iters = 1
+14:02:02 - [spoiler]   atk 34
+14:02:02 - [spoiler] weapon type 1
+14:02:02 - [spoiler]   weapon # 2
+14:02:02 - [spoiler]   enemy effect = golden
+14:02:02 - [spoiler]   stat effect = str boost
+14:02:02 - [spoiler]   weapon 2 [False] name = Quel'Delar; iters = 1
+14:02:02 - [spoiler]   atk 37
+14:02:02 - [spoiler] weapon type 2
+14:02:02 - [spoiler]   weapon # 2
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = agi boost
+14:02:02 - [spoiler]   stat cond = poison
+14:02:02 - [spoiler]   weapon 2 [True] name = Toxicity; iters = 1
+14:02:02 - [spoiler]   atk 31
+14:02:02 - [spoiler] weapon type 3
+14:02:02 - [spoiler]   weapon # 2
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = str boost
+14:02:02 - [spoiler]   stat cond = engulf
+14:02:02 - [spoiler]   weapon 2 [True] name = Areadbhair; iters = 1
+14:02:02 - [spoiler]   atk 31
+14:02:02 - [spoiler] weapon type 4
+14:02:02 - [spoiler]   weapon # 2
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = agi boost
+14:02:02 - [spoiler]   stat cond = freeze
+14:02:02 - [spoiler]   weapon 2 [True] name = Cool Whip; iters = 1
+14:02:02 - [spoiler]   atk 27
+14:02:02 - [spoiler] weapon type 5
+14:02:02 - [spoiler]   weapon # 2
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = str boost
+14:02:02 - [spoiler]   stat cond = confuse
+14:02:02 - [spoiler]   weapon 2 [True] name = Ballista; iters = 1
+14:02:02 - [spoiler]   atk 27
+14:02:02 - [spoiler] weapon type 6
+14:02:02 - [spoiler]   weapon # 2
+14:02:02 - [spoiler]   enemy effect = black
+14:02:02 - [spoiler]   stat effect = str boost
+14:02:02 - [spoiler]   weapon 2 [False] name = Eclipse; iters = 1
+14:02:02 - [spoiler]   atk 33
+14:02:02 - [spoiler] weapon type 7
+14:02:02 - [spoiler]   weapon # 2
+14:02:02 - [spoiler]   enemy effect = black
+14:02:02 - [spoiler]   stat effect = int/wis boost
+14:02:02 - [spoiler]   Replaced with trash.
+14:02:02 - [spoiler]   weapon 2 [False] name = Plastic Fork; iters = 0
+14:02:02 - [spoiler]   atk 33
+14:02:02 - [spoiler] weapon type 0
+14:02:02 - [spoiler]   weapon # 3
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = int/wis boost
+14:02:02 - [spoiler]   stat cond = slow
+14:02:02 - [spoiler]   weapon 3 [True] name = Obsidian; iters = 2
+14:02:02 - [spoiler]   atk 47
+14:02:02 - [spoiler] weapon type 1
+14:02:02 - [spoiler]   weapon # 3
+14:02:02 - [spoiler]   enemy effect = beast
+14:02:02 - [spoiler]   stat effect = str boost
+14:02:02 - [spoiler]   stat cond = engulf
+14:02:02 - [spoiler]   weapon 3 [True] name = Gryffindor Sword; iters = 1
+14:02:02 - [spoiler]   atk 42
+14:02:02 - [spoiler] weapon type 2
+14:02:02 - [spoiler]   weapon # 3
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = agi boost
+14:02:02 - [spoiler]   stat cond = slow
+14:02:02 - [spoiler]   weapon 3 [True] name = Gorehowl; iters = 1
+14:02:02 - [spoiler]   atk 42
+14:02:02 - [spoiler] weapon type 3
+14:02:02 - [spoiler]   weapon # 3
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = agi boost
+14:02:02 - [spoiler]   stat cond = confuse
+14:02:02 - [spoiler]   weapon 3 [True] name = Ceremonial Trident; iters = 1
+14:02:02 - [spoiler]   atk 42
+14:02:02 - [spoiler] weapon type 4
+14:02:02 - [spoiler]   weapon # 3
+14:02:02 - [spoiler]   enemy effect = hit
+14:02:02 - [spoiler]   stat effect = agi boost
+14:02:02 - [spoiler]   stat cond = poison
+14:02:02 - [spoiler]   weapon 3 [True] name = Amethyst's Whip; iters = 1
+14:02:02 - [spoiler]   atk 37
+14:02:02 - [spoiler] weapon type 5
+14:02:02 - [spoiler]   weapon # 3
+14:02:02 - [spoiler]   enemy effect = crit
+14:02:02 - [spoiler]   stat effect = str boost
+14:02:02 - [spoiler]   stat cond = stone
+14:02:02 - [spoiler]   weapon 3 [True] name = Yoichi's Bow; iters = 1
+14:02:02 - [spoiler]   atk 37
+14:02:02 - [spoiler] weapon type 6
+14:02:02 - [spoiler]   weapon # 3
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = agi boost
+14:02:02 - [spoiler]   stat cond = freeze
+14:02:02 - [spoiler]   weapon 3 [True] name = Chakram; iters = 1
+14:02:02 - [spoiler]   atk 37
+14:02:02 - [spoiler] weapon type 7
+14:02:02 - [spoiler]   weapon # 3
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = str boost
+14:02:02 - [spoiler]   stat cond = confuse
+14:02:02 - [spoiler]   weapon 3 [True] name = Javelin; iters = 1
+14:02:02 - [spoiler]   atk 37
+14:02:02 - [spoiler] weapon type 0
+14:02:02 - [spoiler]   weapon # 4
+14:02:02 - [spoiler]   enemy effect = crit
+14:02:02 - [spoiler]   stat effect = con boost
+14:02:02 - [spoiler]   stat cond = engulf
+14:02:02 - [spoiler]   weapon 4 [True] name = Plumbus; iters = 1
+14:02:02 - [spoiler]   atk 61
+14:02:02 - [spoiler] weapon type 1
+14:02:02 - [spoiler]   weapon # 4
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = int/wis boost
+14:02:02 - [spoiler]   stat cond = stone
+14:02:02 - [spoiler]   weapon 4 [True] name = Apocalypse; iters = 1
+14:02:02 - [spoiler]   atk 55
+14:02:02 - [spoiler] weapon type 2
+14:02:02 - [spoiler]   weapon # 4
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = con boost
+14:02:02 - [spoiler]   stat cond = stone
+14:02:02 - [spoiler]   weapon 4 [True] name = Great Axe; iters = 1
+14:02:02 - [spoiler]   atk 55
+14:02:02 - [spoiler] weapon type 3
+14:02:02 - [spoiler]   weapon # 4
+14:02:02 - [spoiler]   enemy effect = 100crit
+14:02:02 - [spoiler]   stat effect = str boost
+14:02:02 - [spoiler]   stat cond = freeze
+14:02:02 - [spoiler]   weapon 4 [True] name = Partisan; iters = 1
+14:02:02 - [spoiler]   atk 55
+14:02:02 - [spoiler] weapon type 4
+14:02:02 - [spoiler]   weapon # 4
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = int/wis boost
+14:02:02 - [spoiler]   stat cond = poison
+14:02:02 - [spoiler]   weapon 4 [True] name = Stem of Nephentes; iters = 2
+14:02:02 - [spoiler]   atk 48
+14:02:02 - [spoiler] weapon type 5
+14:02:02 - [spoiler]   weapon # 4
+14:02:02 - [spoiler]   enemy effect = holy
+14:02:02 - [spoiler]   stat effect = agi boost
+14:02:02 - [spoiler]   weapon 4 [False] name = Trueshot; iters = 1
+14:02:02 - [spoiler]   atk 58
+14:02:02 - [spoiler] weapon type 6
+14:02:02 - [spoiler]   weapon # 4
+14:02:02 - [spoiler]   enemy effect = crit
+14:02:02 - [spoiler]   stat effect = str boost
+14:02:02 - [spoiler]   stat cond = slow
+14:02:02 - [spoiler]   weapon 4 [True] name = Lode Boomerang; iters = 2
+14:02:02 - [spoiler]   atk 48
+14:02:02 - [spoiler] weapon type 7
+14:02:02 - [spoiler]   weapon # 4
+14:02:02 - [spoiler]   enemy effect = beast
+14:02:02 - [spoiler]   stat effect = agi boost
+14:02:02 - [spoiler]   stat cond = slow
+14:02:02 - [spoiler]   weapon 4 [True] name = Light Trident; iters = 2
+14:02:02 - [spoiler]   atk 48
+14:02:02 - [spoiler] weapon type 0
+14:02:02 - [spoiler]   weapon # 5
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = str boost
+14:02:02 - [spoiler]   stat cond = poison
+14:02:02 - [spoiler]   weapon 5 [True] name = Kalkuri; iters = 1
+14:02:02 - [spoiler]   atk 76
+14:02:02 - [spoiler] weapon type 1
+14:02:02 - [spoiler]   weapon # 5
+14:02:02 - [spoiler]   enemy effect = dragon
+14:02:02 - [spoiler]   stat effect = con boost
+14:02:02 - [spoiler]   stat cond = engulf
+14:02:02 - [spoiler]   weapon 5 [True] name = Claymore; iters = 1
+14:02:02 - [spoiler]   atk 68
+14:02:02 - [spoiler] weapon type 2
+14:02:02 - [spoiler]   weapon # 5
+14:02:02 - [spoiler]   enemy effect = hit
+14:02:02 - [spoiler]   stat effect = agi boost
+14:02:02 - [spoiler]   stat cond = engulf
+14:02:02 - [spoiler]   weapon 5 [True] name = Ogre Killer; iters = 1
+14:02:02 - [spoiler]   atk 68
+14:02:02 - [spoiler] weapon type 3
+14:02:02 - [spoiler]   weapon # 5
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = agi boost
+14:02:02 - [spoiler]   stat cond = poison
+14:02:02 - [spoiler]   weapon 5 [True] name = Spear; iters = 1
+14:02:02 - [spoiler]   atk 68
+14:02:02 - [spoiler] weapon type 4
+14:02:02 - [spoiler]   weapon # 5
+14:02:02 - [spoiler]   enemy effect = beast
+14:02:02 - [spoiler]   stat effect = int/wis boost
+14:02:02 - [spoiler]   stat cond = slow
+14:02:02 - [spoiler]   weapon 5 [True] name = Chain Whip; iters = 1
+14:02:02 - [spoiler]   atk 60
+14:02:02 - [spoiler] weapon type 5
+14:02:02 - [spoiler]   weapon # 5
+14:02:02 - [spoiler]   enemy effect = 100crit
+14:02:02 - [spoiler]   stat effect = agi boost
+14:02:02 - [spoiler]   stat cond = confuse
+14:02:02 - [spoiler]   weapon 5 [True] name = Big Chungus; iters = 1
+14:02:02 - [spoiler]   atk 60
+14:02:02 - [spoiler] weapon type 6
+14:02:02 - [spoiler]   weapon # 5
+14:02:02 - [spoiler]   enemy effect = hit
+14:02:02 - [spoiler]   stat effect = str boost
+14:02:02 - [spoiler]   stat cond = confuse
+14:02:02 - [spoiler]   weapon 5 [True] name = Shuriken; iters = 1
+14:02:02 - [spoiler]   atk 60
+14:02:02 - [spoiler] weapon type 7
+14:02:02 - [spoiler]   weapon # 5
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = con boost
+14:02:02 - [spoiler]   stat cond = engulf
+14:02:02 - [spoiler]   weapon 5 [True] name = Determination; iters = 1
+14:02:02 - [spoiler]   atk 60
+14:02:02 - [spoiler] weapon type 0
+14:02:02 - [spoiler]   weapon # 6
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = agi boost
+14:02:02 - [spoiler]   stat cond = confuse
+14:02:02 - [spoiler]   weapon 6 [True] name = Sura's Rampage; iters = 1
+14:02:02 - [spoiler]   atk 91
+14:02:02 - [spoiler] weapon type 1
+14:02:02 - [spoiler]   weapon # 6
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = con boost
+14:02:02 - [spoiler]   stat cond = freeze
+14:02:02 - [spoiler]   weapon 6 [True] name = Masamune; iters = 1
+14:02:02 - [spoiler]   atk 82
+14:02:02 - [spoiler] weapon type 2
+14:02:02 - [spoiler]   weapon # 6
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = con boost
+14:02:02 - [spoiler]   stat cond = engulf
+14:02:02 - [spoiler]   weapon 6 [True] name = Bhuj; iters = 1
+14:02:02 - [spoiler]   atk 82
+14:02:02 - [spoiler] weapon type 3
+14:02:02 - [spoiler]   weapon # 6
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = int/wis boost
+14:02:02 - [spoiler]   stat cond = engulf
+14:02:02 - [spoiler]   weapon 6 [True] name = Amenonuhoko; iters = 1
+14:02:02 - [spoiler]   atk 82
+14:02:02 - [spoiler] weapon type 4
+14:02:02 - [spoiler]   weapon # 6
+14:02:02 - [spoiler]   enemy effect = crit
+14:02:02 - [spoiler]   stat effect = agi boost
+14:02:02 - [spoiler]   stat cond = freeze
+14:02:02 - [spoiler]   weapon 6 [True] name = Backhand Whip; iters = 2
+14:02:02 - [spoiler]   atk 72
+14:02:02 - [spoiler] weapon type 5
+14:02:02 - [spoiler]   weapon # 6
+14:02:02 - [spoiler]   enemy effect = crit
+14:02:02 - [spoiler]   stat effect = agi boost
+14:02:02 - [spoiler]   stat cond = confuse
+14:02:02 - [spoiler]   weapon 6 [True] name = Phrenic Bow; iters = 1
+14:02:02 - [spoiler]   atk 72
+14:02:02 - [spoiler] weapon type 6
+14:02:02 - [spoiler]   weapon # 6
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = str boost
+14:02:02 - [spoiler]   stat cond = stone
+14:02:02 - [spoiler]   weapon 6 [True] name = Lizal Boomerang; iters = 1
+14:02:02 - [spoiler]   atk 72
+14:02:02 - [spoiler] weapon type 7
+14:02:02 - [spoiler]   weapon # 6
+14:02:02 - [spoiler]   enemy effect = crit
+14:02:02 - [spoiler]   stat effect = int/wis boost
+14:02:02 - [spoiler]   stat cond = engulf
+14:02:02 - [spoiler]   weapon 6 [True] name = Elf's Harpoon; iters = 2
+14:02:02 - [spoiler]   atk 72
+14:02:02 - [spoiler] weapon type 0
+14:02:02 - [spoiler]   weapon # 7
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = con boost
+14:02:02 - [spoiler]   stat cond = poison
+14:02:02 - [spoiler]   weapon 7 [True] name = Work Gloves; iters = 1
+14:02:02 - [spoiler]   atk 108
+14:02:02 - [spoiler] weapon type 1
+14:02:02 - [spoiler]   weapon # 7
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = str boost
+14:02:02 - [spoiler]   stat cond = poison
+14:02:02 - [spoiler]   weapon 7 [True] name = Buster Sword; iters = 1
+14:02:02 - [spoiler]   atk 97
+14:02:02 - [spoiler] weapon type 2
+14:02:02 - [spoiler]   weapon # 7
+14:02:02 - [spoiler]   enemy effect = beast
+14:02:02 - [spoiler]   stat effect = int/wis boost
+14:02:02 - [spoiler]   stat cond = engulf
+14:02:02 - [spoiler]   weapon 7 [True] name = Battle Axe; iters = 3
+14:02:02 - [spoiler]   atk 97
+14:02:02 - [spoiler] weapon type 3
+14:02:02 - [spoiler]   weapon # 7
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = int/wis boost
+14:02:02 - [spoiler]   stat cond = poison
+14:02:02 - [spoiler]   weapon 7 [True] name = Bovine Bardiche; iters = 2
+14:02:02 - [spoiler]   atk 97
+14:02:02 - [spoiler] weapon type 4
+14:02:02 - [spoiler]   weapon # 7
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = con boost
+14:02:02 - [spoiler]   stat cond = freeze
+14:02:02 - [spoiler]   weapon 7 [True] name = Morning Star; iters = 1
+14:02:02 - [spoiler]   atk 85
+14:02:02 - [spoiler] weapon type 5
+14:02:02 - [spoiler]   weapon # 7
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = int/wis boost
+14:02:02 - [spoiler]   stat cond = stone
+14:02:02 - [spoiler]   weapon 7 [True] name = Avelyn; iters = 1
+14:02:02 - [spoiler]   atk 85
+14:02:02 - [spoiler] weapon type 6
+14:02:02 - [spoiler]   weapon # 7
+14:02:02 - [spoiler]   enemy effect = crit
+14:02:02 - [spoiler]   stat effect = int/wis boost
+14:02:02 - [spoiler]   stat cond = confuse
+14:02:02 - [spoiler]   weapon 7 [True] name = Moonring; iters = 4
+14:02:02 - [spoiler]   atk 85
+14:02:02 - [spoiler] weapon type 7
+14:02:02 - [spoiler]   weapon # 7
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = con boost
+14:02:02 - [spoiler]   stat cond = confuse
+14:02:02 - [spoiler]   weapon 7 [True] name = Pole Dart; iters = 1
+14:02:02 - [spoiler]   atk 85
+14:02:02 - [spoiler] weapon type 0
+14:02:02 - [spoiler]   weapon # 8
+14:02:02 - [spoiler]   enemy effect = dragon
+14:02:02 - [spoiler]   stat effect = int/wis boost
+14:02:02 - [spoiler]   stat cond = freeze
+14:02:02 - [spoiler]   weapon 8 [True] name = Bone Fist; iters = 3
+14:02:02 - [spoiler]   atk 125
+14:02:02 - [spoiler] weapon type 1
+14:02:02 - [spoiler]   weapon # 8
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = int/wis boost
+14:02:02 - [spoiler]   stat cond = freeze
+14:02:02 - [spoiler]   weapon 8 [True] name = Mana Sword; iters = 0
+14:02:02 - [spoiler]   atk 109
+14:02:02 - [spoiler] weapon type 2
+14:02:02 - [spoiler]   weapon # 8
+14:02:02 - [spoiler]   enemy effect = dragon
+14:02:02 - [spoiler]   stat effect = agi boost
+14:02:02 - [spoiler]   stat cond = engulf
+14:02:02 - [spoiler]   weapon 8 [True] name = Trisection; iters = 3
+14:02:02 - [spoiler]   atk 112
+14:02:02 - [spoiler] weapon type 3
+14:02:02 - [spoiler]   weapon # 8
+14:02:02 - [spoiler]   enemy effect = golden
+14:02:02 - [spoiler]   stat effect = agi boost
+14:02:02 - [spoiler]   weapon 8 [False] name = Sky Piercer; iters = 1
+14:02:02 - [spoiler]   atk 130
+14:02:02 - [spoiler] weapon type 4
+14:02:02 - [spoiler]   weapon # 8
+14:02:02 - [spoiler]   enemy effect = beast
+14:02:02 - [spoiler]   stat effect = int/wis boost
+14:02:02 - [spoiler]   stat cond = engulf
+14:02:02 - [spoiler]   weapon 8 [True] name = Hammer Flail; iters = 1
+14:02:02 - [spoiler]   atk 99
+14:02:02 - [spoiler] weapon type 5
+14:02:02 - [spoiler]   weapon # 8
+14:02:02 - [spoiler]   enemy effect = crit
+14:02:02 - [spoiler]   stat effect = int/wis boost
+14:02:02 - [spoiler]   stat cond = engulf
+14:02:02 - [spoiler]   weapon 8 [True] name = Short Bow; iters = 3
+14:02:02 - [spoiler]   atk 99
+14:02:02 - [spoiler] weapon type 6
+14:02:02 - [spoiler]   weapon # 8
+14:02:02 - [spoiler]   enemy effect = crit
+14:02:02 - [spoiler]   stat effect = str boost
+14:02:02 - [spoiler]   stat cond = poison
+14:02:02 - [spoiler]   weapon 8 [True] name = Ninja's Trump; iters = 1
+14:02:02 - [spoiler]   atk 99
+14:02:02 - [spoiler] weapon type 7
+14:02:02 - [spoiler]   weapon # 8
+14:02:02 - [spoiler]   enemy effect = none
+14:02:02 - [spoiler]   stat effect = agi boost
+14:02:02 - [spoiler]   stat cond = poison
+14:02:02 - [spoiler]   weapon 8 [True] name = Javelin; iters = 100
+14:02:02 - [spoiler]   atk 99
+14:02:02 - [spoiler] fist [False] names: Cestus, Titan's Mitt, Tilian Claw, Obsidian, Plumbus, Kalkuri, Sura's Rampage, Work Gloves, Bone Fist
+14:02:02 - [spoiler] sword [True] names: Edge of Duality, Tsurugi, Quel'Delar, Gryffindor Sword, Apocalypse, Claymore, Masamune, Buster Sword, Mana Sword
+14:02:02 - [spoiler] axe [True] names: Atom Smasher, Shadowmourne, Toxicity, Gorehowl, Great Axe, Ogre Killer, Bhuj, Battle Axe, Trisection
+14:02:02 - [spoiler] spear [False] names: Zodiac Spear, Dragonslayer, Areadbhair, Ceremonial Trident, Partisan, Spear, Amenonuhoko, Bovine Bardiche, Sky Piercer
+14:02:02 - [spoiler] whip [False] names: Whip, Witch's Locks, Cool Whip, Amethyst's Whip, Stem of Nephentes, Chain Whip, Backhand Whip, Morning Star, Hammer Flail
+14:02:02 - [spoiler] bow [True] names: Starfall, Auriel's Bow, Ballista, Yoichi's Bow, Trueshot, Big Chungus, Phrenic Bow, Avelyn, Short Bow
+14:02:02 - [spoiler] boomerang [True] names: Frizbar, Crescent, Eclipse, Chakram, Lode Boomerang, Shuriken, Lizal Boomerang, Moonring, Ninja's Trump
+14:02:02 - [spoiler] javelin [False] names: Lode Javelin, Valkyrie, Plastic Fork, Javelin, Light Trident, Determination, Elf's Harpoon, Pole Dart, Javelin
+14:02:02 - [spoiler] Weapon orb swaps (for boss rewards only):
+14:02:02 - [spoiler]   Glove => Axe
+14:02:02 - [spoiler]   Sword => Sword
+14:02:02 - [spoiler]   Axe => Whip
+14:02:02 - [spoiler]   Spear => Bow
+14:02:02 - [spoiler]   Whip => Boomerang
+14:02:02 - [spoiler]   Bow => Glove
+14:02:02 - [spoiler]   Boomerang => Javelin
+14:02:02 - [spoiler]   Javelin => Spear
+14:02:02 - [spoiler] Starting char = boy
+14:02:02 - [spoiler] Start with boy? True // find boy? False // boy exists? True
+14:02:02 - [spoiler] Start with girl? False // find girl? True // girl exists? True
+14:02:02 - [spoiler] Start with sprite? False // find sprite? True // sprite exists? True
+14:02:02 - [spoiler] Boy character role: OGboy
+14:02:02 - [spoiler] Girl character role: OGgirl
+14:02:02 - [spoiler] Sprite character role: OGsprite
+14:02:02 - [spoiler] Boss map Mantis Ant has boss Spring Beak (93)
+14:02:02 - [spoiler] Boss map Tropicallo has boss Metal Mantis (99)
+14:02:02 - [spoiler] Boss map Spikey Tiger has boss Tropicallo (89)
+14:02:02 - [spoiler] Boss map Tonpole has boss Vampire (98)
+14:02:02 - [spoiler] Boss map Minotaur has boss Mech Rider (114)
+14:02:02 - [spoiler] Boss map Jabberwocky has boss Jabberwocky (92)
+14:02:02 - [spoiler] Boss map Spring Beak has boss Spikey Tiger (91)
+14:02:02 - [spoiler] Boss map Frost Gigas has boss Mantis Ant (87)
+14:02:02 - [spoiler] Boss map Snap Dragon has boss Great Viper (105)
+14:02:02 - [spoiler] Boss map Mech Rider 1 has boss Thunder Gigas (125)
+14:02:02 - [spoiler] Boss map Vampire has boss Thunder Gigas (125)
+14:02:02 - [spoiler] Boss map Metal Mantis has boss Hexas (111)
+14:02:02 - [spoiler] Boss map Mech Rider 2 has boss Snap Dragon (95)
+14:02:02 - [spoiler] Boss map Kilroy has boss Tonpole (113)
+14:02:02 - [spoiler] Boss map Gorgon Bull has boss Snap Dragon (95)
+14:02:02 - [spoiler] Boss map Boreal Face has boss Tonpole (113)
+14:02:02 - [spoiler] Boss map Great Viper has boss Mantis Ant (87)
+14:02:02 - [spoiler] Boss map Blue Spike has boss Hexas (111)
+14:02:02 - [spoiler] Boss map Hydra has boss Frost Gigas (94)
+14:02:02 - [spoiler] Boss map Hexas has boss Thunder Gigas (125)
+14:02:02 - [spoiler] Boss map Kettle Kin has boss Fire Gigas (116)
+14:02:02 - [spoiler] Boss map Mech Rider 3 has boss Mech Rider (96)
+14:02:02 - [spoiler] Boss map Fire Gigas has boss Hexas (111)
+14:02:02 - [spoiler] Boss map Axe Beak has boss Buffy (120)
+14:02:02 - [spoiler] Boss map Buffy has boss Tonpole (113)
+14:02:02 - [spoiler] Boss map Dragon Worm has boss Jabberwocky (92)
+14:02:02 - [spoiler] Boss map Thunder Gigas has boss Gorgon Bull (102)
+14:02:02 - [spoiler] Boss map Watermelon has boss Dragon Worm (123)
+14:02:02 - [spoiler] Boss map Wall Face has boss Red Dragon (117)
+14:02:02 - [spoiler] Boss map Doom's Wall has boss Doom's Wall (97)
+14:02:02 - [spoiler] Boss map Snow Dragon has boss Doom's Wall (97)
+14:02:02 - [spoiler] Boss map Red Dragon has boss Fire Gigas (116)
+14:02:02 - [spoiler] Boss map Blue Dragon has boss Tonpole (113)
+14:02:02 - [spoiler] Boss map Dark Lich has boss Minotaur (90)
+14:02:02 - [spoiler] Seeds required for mana tree = 8
+14:02:02 - [spoiler] Pokemon of the Day:
+ No. 106: HITMONLEE
+ Generation 1
+Its legs can stretch 
+double. First-time foes 
+are startled by its 
+extensible reach. 
+14:02:02 - [spoiler] boy starts with Javelin
+14:02:02 - [spoiler] girl starts with Sword
+14:02:02 - [spoiler] sprite starts with Spear
+14:02:02 - [spoiler] Adding (useless) hint: Sabin's Fire Dance:
+      A [event 0x3CE: krissie northtown]
+14:02:02 - [spoiler] Adding (useful) hint: Fire palace final prize: a weapon orb [event 0x3E9: mandala orb]
+14:02:02 - [spoiler] Adding (useful) hint: Not needed for grand palace: gnome [event 0x3EA: mandala orb]
+14:02:02 - [spoiler] Adding (useful) hint: You can find the bow in a chest. [event 0x3EB: mandala orb]
+14:02:02 - [spoiler] Adding (useful) hint: Recently spotted where a Mana seed should be: dryad magic [event 0x3EC: mandala orb]
+14:02:02 - [spoiler] Adding (useful) hint: Mech rider 3 prize: a weapon orb [event 0x3ED: mandala orb]
+14:02:02 - [spoiler] Adding (useless) hint: Dodongo dislikes smoke [event 0x3EE: mandala orb]
+14:02:02 - [spoiler] Adding (useful) hint: Recently spotted in an early-game area: the midge mallet [event 0x3EF: mandala orb]
+14:02:02 - [spoiler] Adding (useful) hint: Total elements needed for grand palace: 6 [event 0x37C: rudolph]
+14:02:02 - [spoiler] Adding (useless) hint: Sonic Boom:
+   A [event 0x555: dyluck at NT ruins]
+14:02:02 - [spoiler] Adding (useful) hint: Look in a treasure room for lumina magic. [event 0x21C: flowers guy near witch forest]
+14:02:02 - [spoiler] Adding (useful) hint: Not needed for grand palace: gnome [event 0x114: potos elder]
+14:02:02 - [spoiler] Adding (useful) hint: Looking for the girl? Check in a tower. [event 0x3DD: jehk]
+14:02:02 - [spoiler] Adding (useful) hint: Look in a castle for the earth seed. [event 0x3DC: johk]
+14:02:02 - [spoiler] Adding (useful) hint: You can find the moogle belt in a forgotten land. [event 0x2D7: tasnica king after fight]
+14:02:02 - [spoiler] Adding (useful) hint: Needed for grand palace: luna [event 0x606: potos cannon travel sign]
+14:02:02 - [spoiler] Adding (useful) hint: Needed for grand palace: dryad [event 0x607: water palace neko's sign]
+14:02:02 - [spoiler] Adding (useless) hint: I normally give hints.  This time, not so much. [event 0x608: beware of goblins sign]
+14:02:02 - [spoiler] Adding (useless) hint: Sabin's Mantra:
+ R L R L X Y A [event 0x600: three paths sign south of potos]
+14:02:02 - [spoiler] Adding (useful) hint: Not needed for grand palace: gnome [event 0x601: pandora sign]
+14:02:02 - [spoiler] Adding (useful) hint: Look in the Pandora area for the sprite. [event 0x602: kippo sign]
+14:02:02 - [spoiler] Adding (useful) hint: Needed for grand palace: shade [event 0x609: gaia's navel sign]
+14:02:02 - [spoiler] Adding (useful) hint: Needed for grand palace: undine [event 0x604: water palace sign]
+14:02:02 - [spoiler] Adding (useful) hint: Needed for grand palace: undine [event 0x605: potos forest sign]
+14:02:02 - [spoiler] Open world spoilers:
+14:02:02 - [spoiler] [Checks]
+14:02:02 - [spoiler]   Collection cycle:0
+14:02:02 - [spoiler]     luka item 1 (spear) -> sylphid spells [event 0x132] [flag 0xAB]
+14:02:02 - [spoiler]     luka item 2 (undine seed) -> GP 7: 400 [event 0x132] [flag 0x7D]
+14:02:02 - [spoiler]     sylphid item 1 (spells) -> GP 6: 1600 [event 0x4E2] [flag 0x7C]
+14:02:02 - [spoiler]     sylphid item 2 (seed) -> Boomerang orb [event 0x4E2] [flag 0xD0]
+14:02:02 - [spoiler]     moogle village glove orb chest -> Sword orb [event 0x670] [flag 0x51]
+14:02:02 - [spoiler]     ice castle glove orb chest -> gold tower key [event 0x671] [flag 0x37]
+14:02:02 - [spoiler]     pandora sword orb chest -> lumina spells [event 0x673] [flag 0xAC]
+14:02:02 - [spoiler]     northtown ruins sword orb chest -> luna spells [event 0x674] [flag 0xAE]
+14:02:02 - [spoiler]     moogle village axe orb chest -> Whip orb [event 0x676] [flag 0x8]
+14:02:02 - [spoiler]     northtown castle axe orb chest -> Bow orb [event 0x679] [flag 0xD6]
+14:02:02 - [spoiler]     northtown ruins spear orb chest -> fire seed [event 0x67A] [flag 0x93]
+14:02:02 - [spoiler]     pandora spear orb chest -> boomerang [event 0x67C] [flag 0xCE]
+14:02:02 - [spoiler]     santa spear orb chest -> Javelin orb [event 0x67D] [flag 0x66]
+14:02:02 - [spoiler]     kilroy whip orb chest -> Sword orb [event 0x68C] [flag 0xA3]
+14:02:02 - [spoiler]     northtown castle whip orb chest -> Axe orb [event 0x68F] [flag 0x52]
+14:02:02 - [spoiler]     northtown ruins bow orb chest -> GP 0: 1000 [event 0x690] [flag 0x76]
+14:02:02 - [spoiler]     potos chest -> Glove orb [event 0x680] [flag 0xE2]
+14:02:02 - [spoiler]     pandora chest 1 -> Whip orb [event 0x683] [flag 0x63]
+14:02:02 - [spoiler]     pandora chest 2 -> sprite [event 0x684] [flag 0xE]
+14:02:02 - [spoiler]     pandora chest 3 -> gnome spells [event 0x685] [flag 0xA8]
+14:02:02 - [spoiler]     pandora chest 4 -> earth seed [event 0x686] [flag 0x91]
+14:02:02 - [spoiler]     magic rope chest -> dryad seed [event 0x687] [flag 0x97]
+14:02:02 - [spoiler]     northtown castle chest -> GP 3: 200 [event 0x68D] [flag 0x79]
+14:02:02 - [spoiler]     matango inn javelin orb chest -> Whip orb [event 0x692] [flag 0xDC]
+14:02:02 - [spoiler]     watts (axe) -> midge mallet [event 0x1B0] [flag 0x5C]
+14:02:02 - [spoiler]     undine item 1 (spells) -> nothing [event 0x581] [flag 0x0]
+14:02:02 - [spoiler]     undine item 2 (javelin) -> Bow orb [event 0x581] [flag 0xDF]
+14:02:02 - [spoiler]     salamando -> Boomerang orb [event 0x38C] [flag 0x65]
+14:02:02 - [spoiler]     dryad spells -> Glove orb [event 0x4B6] [flag 0x3E]
+14:02:02 - [spoiler]     dryad seed -> GP 2: 800 [event 0x4B6] [flag 0x78]
+14:02:02 - [spoiler]     mara (tower key) -> Sword orb [event 0x399] [flag 0x69]
+14:02:02 - [spoiler]     turtle island (sea hare tail) -> Bow orb [event 0x2F9] [flag 0x6D]
+14:02:02 - [spoiler]     dwarf elder (midge mallet) -> nothing [event 0x366] [flag 0x0]
+14:02:02 - [spoiler]     tropicallo (sprite) -> whip [event 0x1B9] [flag 0xCC]
+14:02:02 - [spoiler]     tropicallo (bow) -> nothing [event 0x1B9] [flag 0x0]
+14:02:02 - [spoiler]     girl -> nothing [event 0x188] [flag 0x0]
+14:02:02 - [spoiler]     starter weapon (main) -> starter weapon (main) [event 0x103] [flag 0x0]
+14:02:02 - [spoiler]     lighthouse (new item) -> Glove orb [event 0xAA] [flag 0x67]
+14:02:02 - [spoiler]     kilroy (new item) -> Axe orb [event 0x36A] [flag 0x6]
+14:02:02 - [spoiler]     mantis ant (new item) -> GP 5: 1800 [event 0x112] [flag 0x7B]
+14:02:02 - [spoiler]     axe beak (new item) -> Sword orb [event 0x5F1] [flag 0x5]
+14:02:02 - [spoiler]     snow dragon (new item) -> GP 8: 200 [event 0x5EF] [flag 0x7E]
+14:02:02 - [spoiler]     dragon worm (new item) -> Spear orb [event 0x5ED] [flag 0xD4]
+14:02:02 - [spoiler]     doom wall -> Glove orb [event 0x553] [flag 0x4]
+14:02:02 - [spoiler]     vampire -> Glove orb [event 0x559] [flag 0xA2]
+14:02:02 - [spoiler]     mech rider 2 -> Boomerang orb [event 0x52F] [flag 0xE0]
+14:02:02 - [spoiler]     watermelon (new item) -> glove [event 0x4B4] [flag 0xC8]
+14:02:02 - [spoiler]     hexas (new item) -> moon seed [event 0x4A2] [flag 0x96]
+14:02:02 - [spoiler]     wall face (new item) -> nothing [event 0x16E] [flag 0x0]
+14:02:02 - [spoiler]     metal mantis (new item) -> Bow orb [event 0x527] [flag 0x1F]
+14:02:02 - [spoiler]     jema at tasnica -> Javelin orb [event 0x2D1] [flag 0xA1]
+14:02:02 - [spoiler]     triple tonpole -> Spear orb [event 0x66A] [flag 0xDE]
+14:02:02 - [spoiler]   Collection cycle:1
+14:02:02 - [spoiler]     gnome item 1 (spells) -> Spear orb [event 0x22E] [flag 0x7]
+14:02:02 - [spoiler]     gnome item 2 (seed) -> GP 1: 1200 [event 0x22E] [flag 0x77]
+14:02:02 - [spoiler]     luna item 1 (spells) -> undine spells [event 0x584] [flag 0xA9]
+14:02:02 - [spoiler]     luna item 2 (seed) -> dryad spells [event 0x584] [flag 0xAF]
+14:02:02 - [spoiler]     lumina spells -> shade spells [event 0x587] [flag 0xAD]
+14:02:02 - [spoiler]     lumina seed -> Axe orb [event 0x587] [flag 0xD3]
+14:02:02 - [spoiler]     sunken continent sword orb chest -> Glove orb [event 0x675] [flag 0xDA]
+14:02:02 - [spoiler]     lumina tower axe orb chest -> Whip orb [event 0x677] [flag 0x6C]
+14:02:02 - [spoiler]     lumina tower spear orb chest -> girl [event 0x67B] [flag 0xD]
+14:02:02 - [spoiler]     santa (new item) -> Javelin orb [event 0x66D] [flag 0xD7]
+14:02:02 - [spoiler]     matango flammie -> salamando spells [event 0x4E4] [flag 0xAA]
+14:02:02 - [spoiler]   Collection cycle:2
+14:02:02 - [spoiler]     mech rider 3 (new item) -> Boomerang orb [event 0x4A4] [flag 0x6E]
+14:02:02 - [spoiler]     buffy (new item) -> sea hare tail [event 0x422] [flag 0x29]
+14:02:02 - [spoiler]     dread slime (new item) -> nothing [event 0x425] [flag 0x0]
+14:02:02 - [spoiler]     fire seed -> Axe orb [event 0x589] [flag 0xDD]
+14:02:02 - [spoiler]     chest next to whip chest -> axe [event 0x688] [flag 0xCA]
+14:02:02 - [spoiler]     fire palace axe orb chest -> Javelin orb [event 0x678] [flag 0x3D]
+14:02:02 - [spoiler]     fire palace chest 1 -> bow [event 0x68A] [flag 0xCD]
+14:02:02 - [spoiler]     fire palace chest 2 -> Sword orb [event 0x68B] [flag 0xDB]
+14:02:02 - [spoiler]     thunder gigas (new item) -> Whip orb [event 0x5F5] [flag 0xD5]
+14:02:02 - [spoiler]     red dragon (new item) -> nothing [event 0x5F3] [flag 0x0]
+14:02:02 - [spoiler]     blue dragon (new item) -> dark seed [event 0x5F7] [flag 0x95]
+14:02:02 - [spoiler]     mana tree (new item) -> Javelin orb [event 0x5F8] [flag 0xE1]
+14:02:02 - [spoiler]     whip chest -> Bow orb [event 0x689] [flag 0x64]
+14:02:02 - [spoiler]   Collection cycle:3
+14:02:02 - [spoiler]     kakkara (moogle belt) -> light seed [event 0x2B2] [flag 0x94]
+14:02:02 - [spoiler]     shade palace glove orb chest -> Boomerang orb [event 0x672] [flag 0x23]
+14:02:02 - [spoiler]     sunken continent boomerang orb chest -> wind seed [event 0x691] [flag 0x92]
+14:02:02 - [spoiler]     shade spells -> GP 4: 400 [event 0x586] [flag 0x7A]
+14:02:02 - [spoiler]     shade seed -> Spear orb [event 0x586] [flag 0x6B]
+14:02:02 - [spoiler]     jehk -> water seed [event 0x4E5] [flag 0x90]
+14:02:02 - [spoiler]     hydra (new item) -> moogle belt [event 0x59B] [flag 0x74]
+14:02:02 - [spoiler]     kettlekin (new item) -> Axe orb [event 0x4CA] [flag 0x6A]
+14:02:02 - [spoiler]     shade palace chest -> Spear orb [event 0x68E] [flag 0x62]
+14:02:02 - [spoiler]   Collection cycle:4
+14:02:02 - [spoiler] Unreachable locations:
+14:02:02 - [spoiler] (none)
+14:02:02 - [spoiler] [Weapons]
+14:02:02 - [spoiler] Boy starting weapon = Javelin
+14:02:02 - [spoiler] Girl starting weapon = Sword
+14:02:02 - [spoiler] Sprite starting weapon = Spear
+14:02:02 - [spoiler] [Orb elements]
+14:02:02 - [spoiler] Element to open earth palace = luna
+14:02:02 - [spoiler] Element to open fire palace 1 = salamando
+14:02:02 - [spoiler] Element to open fire palace 2 = sylphid
+14:02:02 - [spoiler] Element to open fire palace 3 = salamando
+14:02:02 - [spoiler] Element to open luna palace = luna
+14:02:02 - [spoiler] Element to open matango cave = luna
+14:02:02 - [spoiler] Element to cross upper land = none
+14:02:02 - [spoiler] Element to open lost continent gnome room = shade
+14:02:02 - [spoiler] Element to open lost continent undine room = lumina
+14:02:02 - [spoiler] Element to open lost continent sylphid room = undine
+14:02:02 - [spoiler] Element to open lost continent salamando room = luna
+14:02:02 - [spoiler] Element to open lost continent lumina room = salamando
+14:02:02 - [spoiler] Element to open lost continent shade room = salamando
+14:02:02 - [spoiler] Element to open lost continent luna room = dryad
+14:02:02 - [spoiler] End open world spoilers.
+14:02:02 - [spoiler] Shop 0 (Potos) has Circlet
+14:02:02 - [spoiler] Shop 0 (Potos) has Gauntlet
+14:02:02 - [spoiler] Shop 1 (Potos Area Neko) has Wolf's Band
+14:02:02 - [spoiler] Shop 1 (Potos Area Neko) has Golden Vest
+14:02:02 - [spoiler] Shop 1 (Potos Area Neko) has Wristband
+14:02:02 - [spoiler] Shop 1 (Potos Area Neko) has Amulet Ring
+14:02:02 - [spoiler] Shop 2 (Pandora Before Ruins) has Golden Tiara
+14:02:02 - [spoiler] Shop 2 (Pandora Before Ruins) has Dragon Helm
+14:02:02 - [spoiler] Shop 2 (Pandora Before Ruins) has Spiky Suit
+14:02:02 - [spoiler] Shop 3 (Kippo) has Ivy Amulet
+14:02:02 - [spoiler] Shop 3 (Kippo) has Lazuri Ring
+14:02:02 - [spoiler] Shop 3 (Kippo) has Kung Fu Dress
+14:02:02 - [spoiler] Shop 3 (Kippo) has Amulet Helm
+14:02:02 - [spoiler] Shop 4 (Gaia's Navel Town) has Tortoise Mail
+14:02:02 - [spoiler] Shop 4 (Gaia's Navel Town) has Golem Ring
+14:02:02 - [spoiler] Shop 4 (Gaia's Navel Town) has Cockatrice Cap
+14:02:02 - [spoiler] Shop 4 (Gaia's Navel Town) has Ruby Armet
+14:02:02 - [spoiler] Shop 4 (Gaia's Navel Town) has Cobra Bracelet
+14:02:02 - [spoiler] Shop 4 (Gaia's Navel Town) has Magical Armor
+14:02:02 - [spoiler] Shop 4 (Gaia's Navel Town) has Silver Band
+14:02:02 - [spoiler] Shop 4 (Gaia's Navel Town) has Tiger Cap
+14:02:02 - [spoiler] Shop 5 (Pandora After Ruins) has Tiger Bikini
+14:02:02 - [spoiler] Shop 5 (Pandora After Ruins) has Flower Suit
+14:02:02 - [spoiler] Shop 5 (Pandora After Ruins) has Faerie Crown
+14:02:02 - [spoiler] Shop 5 (Pandora After Ruins) has Hair Ribbon
+14:02:02 - [spoiler] Shop 5 (Pandora After Ruins) has Faerie Cloak
+14:02:02 - [spoiler] Shop 5 (Pandora After Ruins) has Guardian Ring
+14:02:02 - [spoiler] Shop 6 (Upper Land Neko) has Watcher Ring
+14:02:02 - [spoiler] Shop 6 (Upper Land Neko) has Ruby Vest
+14:02:02 - [spoiler] Shop 6 (Upper Land Neko) has Head Gear
+14:02:02 - [spoiler] Shop 6 (Upper Land Neko) has Frosty Ring
+14:02:02 - [spoiler] Shop 6 (Upper Land Neko) has Elbow Pad
+14:02:02 - [spoiler] Shop 6 (Upper Land Neko) has Quill Cap
+14:02:02 - [spoiler] Shop 7 (Matango) has Power Suit
+14:02:02 - [spoiler] Shop 7 (Matango) has Needle Helm
+14:02:02 - [spoiler] Shop 7 (Matango) has Tiger Suit
+14:02:02 - [spoiler] Shop 7 (Matango) has Bandanna
+14:02:02 - [spoiler] Shop 8 (Ice Country Todo/Neko) has Quilted Hood
+14:02:02 - [spoiler] Shop 8 (Ice Country Todo/Neko) has Gold Bracelet
+14:02:02 - [spoiler] Shop 8 (Ice Country Todo/Neko) has Steel Cap
+14:02:02 - [spoiler] Shop 8 (Ice Country Todo/Neko) has Chain Vest
+14:02:02 - [spoiler] Shop 8 (Ice Country Todo/Neko) has Vampire Cape
+14:02:02 - [spoiler] Shop 9 (Kakkara) has Shield Ring
+14:02:02 - [spoiler] Shop 9 (Kakkara) has Griffin Helm
+14:02:02 - [spoiler] Shop 9 (Kakkara) has Ninja Gloves
+14:02:02 - [spoiler] Shop 9 (Kakkara) has Unicorn Helm
+14:02:02 - [spoiler] Shop 9 (Kakkara) has Battle Suit
+14:02:02 - [spoiler] Shop 10 (South Town) has Fancy Overalls
+14:02:02 - [spoiler] Shop 10 (South Town) has Power Wrist
+14:02:02 - [spoiler] Shop 10 (South Town) has Raccoon Cap
+14:02:02 - [spoiler] Shop 10 (South Town) has Chest Guard
+14:02:02 - [spoiler] Shop 10 (South Town) has Imp's Ring
+14:02:02 - [spoiler] Shop 10 (South Town) has Duck Helm
+14:02:02 - [spoiler] Shop 10 (South Town) has Dragon Ring
+14:02:02 - [spoiler] Shop 10 (South Town) has Rabite Cap
+14:02:02 - [spoiler] Shop 11 (North Town) has Faerie's Ring
+14:02:02 - [spoiler] Shop 11 (North Town) has Vestguard
+14:02:02 - [spoiler] Shop 11 (North Town) has Faerie's Ring
+14:02:02 - [spoiler] Shop 11 (North Town) has Magical Armor
+14:02:02 - [spoiler] Shop 11 (North Town) has Imp's Ring
+14:02:02 - [spoiler] Shop 11 (North Town) has Ninja Gloves
+14:02:02 - [spoiler] Shop 11 (North Town) has Faerie Crown
+14:02:02 - [spoiler] Shop 11 (North Town) has Shield Ring
+14:02:02 - [spoiler] Shop 12 (Mountains Neko) has Golden Tiara
+14:02:02 - [spoiler] Shop 12 (Mountains Neko) has Spiky Suit
+14:02:02 - [spoiler] Shop 12 (Mountains Neko) has Battle Suit
+14:02:02 - [spoiler] Shop 13 (Gold City) has Tortoise Mail
+14:02:02 - [spoiler] Shop 13 (Gold City) has Guardian Ring
+14:02:02 - [spoiler] Shop 13 (Gold City) has Gold Bracelet
+14:02:02 - [spoiler] Shop 13 (Gold City) has Ruby Vest
+14:02:02 - [spoiler] Shop 13 (Gold City) has Ruby Armet
+14:02:02 - [spoiler] Shop 13 (Gold City) has Quill Cap
+14:02:02 - [spoiler] Shop 13 (Gold City) has Unicorn Helm
+14:02:02 - [spoiler] Shop 14 (Tasnica) has Golden Vest
+14:02:02 - [spoiler] Shop 14 (Tasnica) has Faerie Cloak
+14:02:02 - [spoiler] Shop 14 (Tasnica) has Frosty Ring
+14:02:02 - [spoiler] Shop 14 (Tasnica) has Fancy Overalls
+14:02:02 - [spoiler] Shop 14 (Tasnica) has Power Wrist
+14:02:02 - [spoiler] Shop 14 (Tasnica) has Needle Helm
+14:02:02 - [spoiler] Shop 15 (Lost Continent Neko) has Flower Suit
+14:02:02 - [spoiler] Shop 15 (Lost Continent Neko) has Power Suit
+14:02:02 - [spoiler] Shop 15 (Lost Continent Neko) has Amulet Helm
+14:02:02 - [spoiler] Lime slime flavor: Pineapple
+14:02:02 - [spoiler] 67 nesos to choose from. The nesoberi library grows ever larger.
+14:02:02 - [spoiler] Nesoberi: Otomune Kozue (Hasunosora). Headpats are encouraged and greatly appreciated.
+14:02:02 - [spoiler] Neso hints:
+14:02:02 - [spoiler] Kozue neso says: find sprite in a chest
+14:02:02 - [spoiler] Kozue neso says: find girl in a chest
+14:02:02 - [spoiler] Kozue neso says: find gnome spells in a treasure room

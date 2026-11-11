@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <AssemblyName>SoMRandomizer.Core</AssemblyName>
+    <RootNamespace>SoMRandomizer</RootNamespace>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <LangVersion>7.2</LangVersion>
+    <Deterministic>false</Deterministic>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="U8XmlParser" Version="1.6.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\**\*.bin" />
+    <EmbeddedResource Include="Resources\**\*.properties" />
+    <EmbeddedResource Include="Resources\**\*.xml" />
+    <EmbeddedResource Include="Resources\**\*.bmp" />
+    <EmbeddedResource Include="Resources\**\*.ico" />
+    <EmbeddedResource Include="Resources\**\*.png" />
+  </ItemGroup>
+
+</Project>

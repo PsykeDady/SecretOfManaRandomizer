@@ -1,0 +1,273 @@
+14:02:02 - [general] -------------------------------------------------
+14:02:02 - [general] Begin ROM generation at 11/11/2026 14:02:02 with version 1.49
+14:02:02 - [general] Seed = 1C7EA113283CF12A
+14:02:02 - [general] Options = Properties [CommonSettings]:
+  debugLoggingEnabled = no
+  ovrchrgFix = yes
+  leavePlayersBehind = yes
+  seReduction = yes
+  aggBosses = no
+  funSpeedup = yes
+  rainbowRabites = yes
+  longStatus = yes
+  fasterChests = yes
+  magicRebalance = yes
+  mpAtLevel = yes
+  fasterMagicLevel = yes
+  fasterWeaponLevel = yes
+  fasterMessages = yes
+  moreItems = yes
+  starterGear = no
+  noBsVampires = yes
+  orbFix = yes
+  bossDeathFix = yes
+  speciesDamage = yes
+  elemDamage = yes
+  fastTransition = no
+  accuratePercent = no
+  noStaminaRun = no
+  statusGlow = yes
+  mode7Fix = yes
+  noGigasSplit = yes
+  whipFix = yes
+  offscreenTarget = yes
+  buyMultiple = yes
+  manaMagicFix = yes
+  ohko = no
+  noSummonDespawn = yes
+  noclip = no
+  confusionFix = yes
+  hittableBeaks = no
+  mechRiderDeathFix = yes
+  adjustEnemyPos = yes
+  attacksForever = no
+  deathByPoison = no
+  percentPoison = no
+  aggEnemies = no
+  obscureDamage = no
+  obscureHp = no
+  obscureGold = no
+  defRefactor = no
+  muteMusic = no
+  showEvades = yes
+  bossFixedZ = no
+  bossElementRando = no
+  nameEntryFix = yes
+  enemyInfiniteMp = no
+  trashWeapons = yes
+  showMinimap = yes
+  cupAtZeroHp = yes
+  candyHealouts = yes
+  magicRopeDeathFix = yes
+  spoilerLog = yes
+  raceMode = no
+  testOnly = no
+  version = 1.49
+  buildDate = 01/01/2000 00:00:00
+  mode = open
+  characterColors = rando
+  dmgCancelAllow = all
+  currentGenerateProgress = 0
+  allOptions = version=1.49 mode=open opCharacters=findbothCL opGoal=vlong opEnemies=random
+  SourceROMName = /home/psykedady/Sviluppo/gitclone/SecretOfManaRandomizer/Secret of Mana.smc
+  TargetROMName = /home/psykedady/Sviluppo/gitclone/SecretOfManaRandomizer/Secret of Mana[1C7EA113283CF12A].smc
+Properties [OpenWorldSettings]:
+  opWeapons = yes
+  opMusic = yes
+  opShop = yes
+  opMapColors = no
+  opAutosave = yes
+  opChestsDontRun = yes
+  opShowLevels = yes
+  opMagicRopeRefactor = yes
+  opPauseInMenu = yes
+  opXmasMaps = no
+  opXmasItems = no
+  opGPEleRando = yes
+  opPlatinumMode = no
+  opMinLevel = no
+  opMaxLevel = no
+  opAllowLockedItems = no
+  opDisableHints = no
+  opAllWeaponOrbs = no
+  opFastWhipPosts = yes
+  opFlammieDrumInLogic = no
+  opEnemies = random
+  opBosses = random
+  opStatusAilments = location
+  opStatGrowth = player
+  opDifficulty = normal
+  opCharacters = findbothCL
+  opStartChar = boy
+  opManaBeastScale = scaled
+  opComplexity = dontcare
+  opLogic = basic
+  opGoal = vlong
+  opTraps = normal
+  opChestFreq = normal
+  opAiRando = vanilla
+  opExp = 2
+  opGold = 2
+  opGoldCheckMul = 2
+  opGoldDropMul = 2
+  opStartGold = 0
+  opXmasGifts = 8
+  opStartLevel = 1
+  oopsAllThis = 21
+  opStartWeapon = -1
+  opNumSeeds = 8
+  opMinSeeds = 1
+  opMaxSeeds = 8
+  opNoFutureLevel = 99
+  opBoyRole = OGboy
+  opGirlRole = OGgirl
+  opSpriteRole = OGsprite
+  plandoSettings = 
+14:02:02 - [general] -------------------------------------------------
+14:02:02 - [general] Adding: [Weapon randomizer] at 0x200011 -> 0x201A30(0x1A20) bytes
+14:02:02 - [general] Adding: [Title screen changes] at 0x201A31 -> 0x205FF1(0x45C1) bytes
+14:02:02 - [general] Adding: [Faster magic levels] at 0x205FF2 -> 0x205FFB(0xA) bytes
+14:02:02 - [general] Adding: [Faster weapon levels] at 0x205FFC -> 0x206006(0xB) bytes
+14:02:02 - [general] Adding: [Faster top of screen dialogue]
+14:02:02 - [general] Adding: [Levelups restore MP] at 0x206007 -> 0x206017(0x11) bytes
+14:02:02 - [general] Adding: [Chests open without shaking]
+14:02:02 - [general] Adding: [Magic cost/power rebalance]
+14:02:02 - [general] Adding: [Extend status lengths]
+14:02:02 - [general] Adding: [Rabite color randomizer] at 0x206018 -> 0x2062E0(0x2C9) bytes
+14:02:02 - [general] Adding: [Character palette randomizer]
+14:02:02 - [general] Adding: [Allow characters to be off screen] at 0x2062E1 -> 0x20645A(0x17A) bytes
+14:02:02 - [general] Adding: [Overcharge fix] at 0x20645B -> 0x206492(0x38) bytes
+14:02:02 - [general] Adding: [Sound effects reduction] at 0x206493 -> 0x2064AE(0x1C) bytes
+14:02:02 - [general] Adding: [Sound effects channel reduction]
+14:02:02 - [general] Adding: [Remove sword-pull animation]
+14:02:02 - [general] Adding: [Increase max consumables to 7]
+14:02:02 - [general] Adding: [Hexas fix]
+14:02:02 - [general] Skipping: [Faster boss AI]
+14:02:02 - [general] Adding: [Gnome speedup spell enhancements] at 0x2064AF -> 0x2065BE(0x110) bytes
+14:02:02 - [general] Adding: [Status condition palette glow] at 0x2065BF -> 0x20A578(0x3FBA) bytes
+14:02:02 - [general] Adding: [Vampire hittable when cloaked]
+14:02:02 - [general] Skipping: [Starter gear in each slot]
+14:02:02 - [general] Adding: [Changes to boss/vanilla chest weapon orb reward events]
+14:02:02 - [general] Adding: [Boss death softlock fix]
+14:02:02 - [general] Adding: [Enemy type/species damage] at 0x20A579 -> 0x20A598(0x20) bytes
+14:02:02 - [general] Adding: [Elemental damage] at 0x20A599 -> 0x20A674(0xDC) bytes
+14:02:02 - [general] Skipping: [Faster door transitions]
+14:02:02 - [general] Adding: [Mode 7 minor graphical fix]
+14:02:02 - [general] Skipping: [Accurate damage percentages]
+14:02:02 - [general] Skipping: [Remove energy cost for running]
+14:02:02 - [general] Adding: [Gigases never split into those sparkly things]
+14:02:02 - [general] Adding: [Whip coordinate fix]
+14:02:02 - [general] Adding: [Off-screen targetting] at 0x20A675 -> 0x20A71A(0xA6) bytes
+14:02:02 - [general] Adding: [Buy multiple consumables at once] at 0x20A71B -> 0x20ABA6(0x48C) bytes
+14:02:02 - [general] Adding: [Mana magic fixed charge level]
+14:02:02 - [general] Skipping: [One-hit KO]
+14:02:02 - [general] Adding: [Fix summoning enemies despawning certain NPCs] at 0x20ABA7 -> 0x20ABD6(0x30) bytes
+14:02:02 - [general] Skipping: [Walk through walls]
+14:02:02 - [general] Adding: [Confusion status inversion fix] at 0x20ABD7 -> 0x20AC9C(0xC6) bytes
+14:02:02 - [general] Skipping: [Beak disable for Spring/Axe Beak]
+14:02:02 - [general] Adding: [High-level enemy name fix] at 0x20AC9D -> 0x20ACA4(0x8) bytes
+14:02:02 - [general] Adding: [Mech rider death fix]
+14:02:02 - [general] Adding: [Position adjustments for vanilla enemies]
+14:02:02 - [general] Skipping: [Attacking doesn't cost stamina]
+14:02:02 - [general] Skipping: [Aggressive non-boss enemies]
+14:02:02 - [general] Skipping: [Players are always poisoned]
+14:02:02 - [general] Skipping: [Poison deals percentage damage]
+14:02:02 - [general] Skipping: [Obscure damage numbers]
+14:02:02 - [general] Skipping: [Obscure player HP]
+14:02:02 - [general] Skipping: [Obscure own gold amount]
+14:02:02 - [general] Skipping: [Defense refactor]
+14:02:02 - [general] Adding: [Display zero damage for evades]
+14:02:02 - [general] Adding: [Always show damage numbers on-screen] at 0x20ACA5 -> 0x20AD18(0x74) bytes
+14:02:02 - [general] Skipping: [Boss element randomizer]
+14:02:02 - [general] Adding: [12-letter name entry] at 0x20AD19 -> 0x20AD33(0x1B) bytes
+14:02:02 - [general] Skipping: [Enemies have infinite MP]
+14:02:02 - [general] Skipping: [Fix damage canceling]
+14:02:02 - [general] Adding: [Minimap when flying on flammie] at 0x20AD34 -> 0x20B87A(0xB47) bytes
+14:02:02 - [general] Adding: [Allow cup of wishes on any 0 HP characters] at 0x20B87B -> 0x20B892(0x18) bytes
+14:02:02 - [general] Adding: [Use candy and chocolate on 0 HP characters]
+14:02:02 - [general] Adding: [Magic rope animation/death fix for girl/sprite] at 0x20B893 -> 0x20B8A4(0x12) bytes
+14:02:02 - [general] Adding: [Initialization of values for start of run] at 0x20B8A5 -> 0x20B8CF(0x2B) bytes
+14:02:02 - [general] Adding: [Mushroom enemies become vineshrooms]
+14:02:02 - [general] Adding: [Default player AI to aggressive]
+14:02:02 - [general] Adding: [Open world character selection]
+14:02:02 - [general] Adding: [Open world goal processing]
+14:02:02 - [general] Adding: [Open world class selection]
+14:02:02 - [general] Adding: [Spell orb element randomizer]
+14:02:02 - [general] Adding: [Boss randomizer] at 0x20B8D0 -> 0x20B91A(0x4B) bytes
+14:02:02 - [general] Adding: [Pick silly names for enemies]
+14:02:02 - [general] Adding: [MTR seed selection]
+14:02:02 - [general] Skipping enemy rando; random spawns selected
+14:02:02 - [general] Adding: [Random enemy spawns hack] at 0x20B91B -> 0x20B996(0x7C) bytes
+14:02:02 - [general] Skipping: [Non-boss enemy randomizer]
+14:02:02 - [general] Couldn't load vanilla music types: System.IO.DirectoryNotFoundException: Could not find a part of the path '/home/psykedady/Sviluppo/gitclone/SecretOfManaRandomizer/music/vanillamusictypes.xml'.
+   at Interop.ThrowExceptionForIoErrno(ErrorInfo errorInfo, String path, Boolean isDirError)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String path, OpenFlags flags, Int32 mode, Boolean failForSymlink, Boolean& wasSymlink, Func`4 createOpenException)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, UnixFileMode openPermissions, Int64& fileLength, UnixFileMode& filePermissions, Boolean failForSymlink, Boolean& wasSymlink, Func`4 createOpenException)
+   at System.IO.File.OpenHandle(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at U8Xml.Internal.FileHelper.ReadFileToUnmanaged(String filePath)
+   at U8Xml.XmlParser.ParseFileCore(String filePath, Encoding encoding)
+   at U8Xml.XmlParser.ParseFile(String filePath, Encoding encoding)
+   at U8Xml.XmlParser.ParseFile(String filePath)
+   at SoMRandomizer.processing.hacks.common.music.VanillaMusicTypesLoader.loadCustomVanillaMusicTypes()
+14:02:02 - [general] Begin music import.
+14:02:02 - [general] Couldn't load external samples: System.IO.DirectoryNotFoundException: Could not find a part of the path '/home/psykedady/Sviluppo/gitclone/SecretOfManaRandomizer/music/samples.xml'.
+   at Interop.ThrowExceptionForIoErrno(ErrorInfo errorInfo, String path, Boolean isDirError)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String path, OpenFlags flags, Int32 mode, Boolean failForSymlink, Boolean& wasSymlink, Func`4 createOpenException)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, UnixFileMode openPermissions, Int64& fileLength, UnixFileMode& filePermissions, Boolean failForSymlink, Boolean& wasSymlink, Func`4 createOpenException)
+   at System.IO.File.OpenHandle(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at U8Xml.Internal.FileHelper.ReadFileToUnmanaged(String filePath)
+   at U8Xml.XmlParser.ParseFileCore(String filePath, Encoding encoding)
+   at U8Xml.XmlParser.ParseFile(String filePath, Encoding encoding)
+   at U8Xml.XmlParser.ParseFile(String filePath)
+   at SoMRandomizer.processing.hacks.common.music.ExternalSamples.getAllCustomSamples(UInt16& startId)
+14:02:02 - [general] Imported sample parsing failed; proceeding with no imported music
+14:02:02 - [general] Adding: [Music rando + imported music] at 0x20B997 -> 0x20D540(0x1BAA) bytes
+14:02:02 - [general] Adding: [Ice country landability changes]
+14:02:02 - [general] Skipping: [Open world Christmas changes]
+14:02:02 - [general] Adding: [Invisible passageways clear slow condition] at 0x20D541 -> 0x20D561(0x21) bytes
+14:02:02 - [general] Adding: [Boss Z-position determination] at 0x20D562 -> 0x20D605(0xA4) bytes
+14:02:02 - [general] Adding: [Open world difficulty value processor]
+14:02:02 - [general] Adding: [Set colors and names of spell orbs] at 0x20D606 -> 0x20DC17(0x612) bytes
+14:02:02 - [general] Adding: [Event 0x400 - new game]
+14:02:02 - [general] Skipping: [Event 0x106 - intro (xmas gift delivery)]
+14:02:02 - [general] Skipping: [Event 0x106 - intro (xmas reindeer)]
+14:02:02 - [general] Skipping: [Event 0x106 - intro (flammie drum in logic)]
+14:02:02 - [general] Adding: [Event 0x106 & 0x101 - intro (waterfall)]
+14:02:02 - [general] Adding: [Event 0x107 - Initialization of event flags]
+14:02:02 - [general] Adding: [Event 0x106 - intro]
+14:02:02 - [general] Adding: [Event 0x103 - sword grab & other initialization]
+14:02:02 - [general] Adding: [Open world prize events]
+14:02:02 - [general] Adding: [Open world hint events]
+14:02:02 - [general] Adding: [Random pokedex entry event]
+14:02:02 - [general] Adding: [Neko event changes]
+14:02:02 - [general] Adding: [Supporting events for open world]
+14:02:02 - [general] Adding: [Changes to map object visibility etc. for open world]
+14:02:02 - [general] Adding: [Misc/silly dialogue changes]
+14:02:02 - [general] Adding: [Open world events]
+14:02:02 - [general] Adding: [Custom top of screen text] at 0x20DC18 -> 0x20DC8C(0x75) bytes
+14:02:02 - [general] Skipping min/max level; neither setting enabled
+14:02:02 - [general] Skipping: [Open world enemy min/max level]
+14:02:02 - [general] Adding: [Enemy stats scaling/adjustment] at 0x20DC8D -> 0x2120C4(0x4438) bytes
+14:02:02 - [general] Open world generation finished!
+14:02:02 - [general] Adding: [Open world randomizations]
+14:02:02 - [general] Adding: [Workaround for one issue with a fire palace door]
+14:02:02 - [general] Adding: [Auto-save to slot 4 on door transitions] at 0x2120C5 -> 0x212331(0x26D) bytes
+14:02:02 - [general] Adding: [Neko price overflow fix] at 0x212332 -> 0x212340(0xF) bytes
+14:02:02 - [general] Adding: [Open world shop randomizer] at 0x212332 -> 0x212340(0xF) bytes
+14:02:02 - [general] Adding: [Watts weapon level fix] at 0x212341 -> 0x212349(0x9) bytes
+14:02:02 - [general] Adding: [Random flavor for lime slime]
+14:02:02 - [general] Adding: [Open world enemies only drop consumables and money] at 0x21234A -> 0x212432(0xE9) bytes
+14:02:02 - [general] Adding: [Only show armor as wearable if it's an improvement] at 0x212433 -> 0x212531(0xFF) bytes
+14:02:02 - [general] Adding: [Magic rope refactor for vanilla maps] at 0x212532 -> 0x212956(0x425) bytes
+14:02:02 - [general] Adding: [Changes for character join] at 0x212957 -> 0x2129C0(0x6A) bytes
+14:02:02 - [general] Skipping: [Map palette randomization]
+14:02:02 - [general] Skipping: [Enemy AI swap]
+14:02:02 - [general] Skipping: [Black-out all map palettes]
+14:02:02 - [general] Adding: [Random nesoberi with hint] at 0x2129C1 -> 0x213232(0x872) bytes
+14:02:02 - [general] Adding: [Automatic whip-post jumps if you have the whip] at 0x213233 -> 0x2135B9(0x387) bytes
+14:02:02 - [general] Adding: [Indestructible rabite in the wind palace] at 0x2135BA -> 0x2135D6(0x1D) bytes
+14:02:02 - [general] Adding: [Remove title-screen menu auto-reset]
+14:02:02 - [general] Skipping: [Character roles/classes]
+14:02:02 - [general] Hash check value: E272FBFA
+14:02:02 - [general] Adding: [Seed/hash display]
+14:02:02 - [general] Done!

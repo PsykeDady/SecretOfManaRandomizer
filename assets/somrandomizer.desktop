@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Secret of Mana Randomizer
+GenericName=Game Randomizer
+Comment=Generate randomized Secret of Mana ROMs
+Exec=somrandomizer
+TryExec=somrandomizer
+Icon=somrandomizer
+Terminal=false
+Categories=Game;
+Keywords=Secret of Mana;SNES;randomizer;ROM;
+StartupNotify=true
+StartupWMClass=SoMRandomizer

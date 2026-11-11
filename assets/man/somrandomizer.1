@@ -1,0 +1,65 @@
+.TH SOMRANDOMIZER 1 "2026-11-11" "Secret of Mana Randomizer" "User Commands"
+.SH NAME
+somrandomizer, somrandomizer-cli \- randomizer for the SNES game Secret of Mana
+.SH SYNOPSIS
+.B somrandomizer
+.RI [ options ]
+.br
+.B somrandomizer-cli
+.I srcRom=FILE dstRom=FILE seed=SEED options=OPTIONS
+.SH DESCRIPTION
+.B somrandomizer
+starts the graphical randomizer.  It reads a 2 MiB Secret of Mana ROM (a
+512-byte copier header is also accepted) and writes a randomized 4 MiB ROM.
+.PP
+.B somrandomizer-cli
+performs the same generation without a display.  Arguments are passed as
+.I key=value
+pairs; the option string can contain several settings separated by spaces.
+.SH OPTIONS
+The graphical application has no command-line options.
+.PP
+The command-line generator requires:
+.TP
+.B srcRom=FILE
+Path to the original Secret of Mana ROM.
+.TP
+.B dstRom=FILE
+Path of the generated ROM.  An existing file is overwritten.
+.TP
+.B seed=SEED
+Seed controlling the randomization.
+.TP
+.B options=OPTIONS
+Randomizer settings, for example
+.RB \(dq version=1.49 mode=open \(dq.
+The mode can be
+.BR rando ,
+.BR open ,
+.BR ancientcave ,
+.BR bossrush ,
+or
+.BR chaos .
+.SH FILES
+.TP
+.I @PREFIX@/lib/somrandomizer/app
+Self-contained graphical application.
+.TP
+.I @PREFIX@/lib/somrandomizer/cli
+Self-contained command-line generator.
+.TP
+.I @PREFIX@/share/applications/somrandomizer.desktop
+Desktop menu entry.
+.SH ENVIRONMENT
+.TP
+.B DISPLAY
+X11 display used by the graphical application.  Avalonia 11.3 has no native
+Wayland backend; under Wayland this must point at an XWayland display, normally
+started by the compositor.
+.SH NOTES
+The graphical application requires the X11 client libraries.  On a Wayland
+session, install and enable XWayland if
+.B DISPLAY
+is not available.
+.SH SEE ALSO
+The project README and the upstream Secret of Mana Randomizer documentation.
